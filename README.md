@@ -11,7 +11,6 @@ a-z
 
 !@#$%^&*()_+-={}[].,\<>?"':;
 
-***
 # Demo
 Here is how it looks when run
 
