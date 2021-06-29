@@ -11,6 +11,25 @@ a-z
 
 !@#$%^&*()_+-={}[].,\<>?"':;
 
+# Getting Started
+The only prerequisite to run this is to have python installed. We can check if python is installed using either of the following commands:
+```
+python --version
+python3 --version
+```
+If python is not installed, then this can easily be done using the installer found on https://www.python.org/downloads/
+
+You can also install it via the command line on Windows/Mac OS/Linux using the following command:
+
+```
+$ sudo apt-get update
+$ sudo apt-get install python3.9
+```
+To run the program, navigate to the file's directory and run the following command:
+```
+python RandomPasswordGenerator.py
+```
+
 # Demo
 Here is how it looks when run
 
