@@ -13,7 +13,7 @@ def randomPassword(length):
 
 print("""---------------------------------------------------------------
 |     Hi there, welcome to Z's random password generator!     |
-|        How long you would like your password to be?         |
+|        How long would you like your password to be?         |
 | Please keep in mind that it must be at least 12 characters  |
 ---------------------------------------------------------------\n""")
 print('Password length: ', end='')
