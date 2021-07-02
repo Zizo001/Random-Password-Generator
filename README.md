@@ -19,7 +19,7 @@ python3 --version
 ```
 If python is not installed, then this can easily be done using the installer found on https://www.python.org/downloads/
 
-You can also install it via the command line on Windows/Mac OS/Linux using the following command:
+You can also install it via the command line on Mac OS/Linux using the following command:
 
 ```
 $ sudo apt-get update
